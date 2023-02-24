@@ -1,16 +1,9 @@
 # sound
 
-A new Flutter project.
+Welcome to the Sound App Flutter project! This project is designed to help you create a mobile app that plays different sounds using the Flutter framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Welcome to the Sound App Flutter project! This project is designed to help you create a mobile app that plays different sounds using the Flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, you will be asked to create a mobile app that allows the user to play different sounds by tapping on buttons.
